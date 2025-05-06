@@ -1,0 +1,26 @@
+#zona-encabezado {
+    width: 85%;
+    color: #596e79;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #f0ece2;
+}
+
+#zona-imagenes {
+    width: 85%;
+    background-color: #f0ece2;
+    text-align: center;
+}
+
+#zona-cuerpo {
+    width: 85%;
+    color: #596e79;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #dfd3c3;
+}
+
+#zona-final {
+    width: 85%;
+    color: black;
+    background-color: #c7b198;
+    font-size: 12pt;
+}
